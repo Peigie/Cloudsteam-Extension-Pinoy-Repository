@@ -1,0 +1,8 @@
+{
+  "name": "Pinoy Provider",
+  "description": "Pinoy Repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "<https://github.com/Peigie/Cloudsteam-Extension-Pinoy-Repository/tree/builds/plugins.json>"
+  ]
+}
